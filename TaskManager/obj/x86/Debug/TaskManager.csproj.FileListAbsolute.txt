@@ -1,0 +1,15 @@
+E:\pzy\workspace\temp\TaskManager\TaskManager\obj\x86\Debug\TaskManager.Form1.resources
+E:\pzy\workspace\temp\TaskManager\TaskManager\obj\x86\Debug\TaskManager.Properties.Resources.resources
+E:\pzy\workspace\temp\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csproj.GenerateResource.Cache
+E:\pzy\workspace\temp\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+E:\pzy\workspace\temp\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\pzy\workspace\temp\TaskManager\TaskManager\obj\x86\Debug\TaskManager.exe
+E:\pzy\workspace\temp\TaskManager\TaskManager\obj\x86\Debug\TaskManager.pdb
+E:\data\code\TaskManager\TaskManager\obj\x86\Debug\TaskManager.exe
+E:\data\code\TaskManager\TaskManager\obj\x86\Debug\TaskManager.pdb
+E:\data\code\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+E:\data\code\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\data\code\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csprojResolveAssemblyReference.cache
+E:\data\code\TaskManager\TaskManager\obj\x86\Debug\TaskManager.Form1.resources
+E:\data\code\TaskManager\TaskManager\obj\x86\Debug\TaskManager.Properties.Resources.resources
+E:\data\code\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csproj.GenerateResource.Cache
